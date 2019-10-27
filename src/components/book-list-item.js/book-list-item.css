@@ -1,0 +1,21 @@
+.book-list-item{
+    margin-top: 20px;
+}
+.book-list-item a:hover{
+    text-decoration: none;
+}
+.book-cover img{
+    width: 100px;
+}
+.book-details{
+    margin-left: 15px;
+}
+.book-price{
+    font-size: 30px;
+}
+.book-author{
+    font-size: 13px;
+}
+.book-title{
+    font-weight: bold;
+}
